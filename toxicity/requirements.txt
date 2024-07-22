@@ -1,0 +1,9 @@
+django
+djangorestframework
+numpy
+pandas
+scikit-learn
+tensorflow
+seaborn
+jupyter
+ipython
