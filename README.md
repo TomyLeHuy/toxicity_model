@@ -4,7 +4,7 @@ A basic webapp that allows the user to type in comments to be graded by a deep l
 In order to run the app just open the folder in an IDE of you choice (i suggest pyCharm) and install the required packages:
 ``` py
 pip install requirements.txt
-cd 
+cd toxicity_webapp
 python manage.py runserver
 ```
 ## Feedback 
